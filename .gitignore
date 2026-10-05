@@ -1,0 +1,4 @@
+# Exportaciones generadas por deploy-tags.sh (datos de clusters)
+*.tsv
+
+.DS_Store
